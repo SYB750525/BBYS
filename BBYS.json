@@ -83,17 +83,6 @@
    }
   },
   {
-   "key": "小皮",
-   "name": "小虾｜4k高清",
-   "type": 3,
-   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "order_num": 0,
-   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/小虾.js"
-  },
-  {
    "key": "哔哩弹幕",
    "name": "哔哩｜4k弹幕",
    "type": 3,
@@ -332,23 +321,6 @@
     "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
     "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
     "site": "http://labipan.com/",
-    "danmu": true
-   }
-  },
-  {
-   "key": "夸克白嫖弹幕",
-   "name": "白嫖｜4K弹幕",
-   "type": 3,
-   "api": "csp_Wobg",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 1,
-   "ext": {
-    "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-    "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-    "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-    "site": "http://失眠的夜.top",
     "danmu": true
    }
   },
@@ -654,6 +626,13 @@
    }
   },
   {
+   "key": "土豆",
+   "name": "土豆┃影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "http://60.211.124.23:10101/tvbox/js/gyi.php?key=7894561232&id=土豆"
+  },
+  {
    "key": "csp_Xlys",
    "name": "哔嘀┃影视",
    "api": "csp_Xlys",
@@ -695,7 +674,7 @@
   },
   {
    "key": "美剧窝",
-   "name": "美剧窝｜影视",
+   "name": "美剧｜影视",
    "type": 3,
    "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
    "searchable": 1,
@@ -771,17 +750,6 @@
    "changeable": 1,
    "quickSearch": 1,
    "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/%E5%85%89%E9%80%9F.py",
-   "playerType": 2,
-   "filterable": 1
-  },
-  {
-   "key": "csp_视觉",
-   "name": "视觉┃PY影视",
-   "type": 3,
-   "searchable": 1,
-   "changeable": 1,
-   "quickSearch": 1,
-   "api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
    "playerType": 2,
    "filterable": 1
   },
@@ -974,6 +942,16 @@
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/电影先生.js"
   },
   {
+   "key": "py_jieyingshi",
+   "name": "界Py｜影视",
+   "type": 3,
+   "api": "https://json.doube.eu.org/python/py_jieyingshi.py",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 0,
+   "changeable": 0
+  },
+  {
    "key": "暖光视频",
    "name": "暖光｜影视",
    "type": 3,
@@ -1017,7 +995,7 @@
   },
   {
    "key": "小白菜影视",
-   "name": "小白菜｜影视",
+   "name": "白菜｜影视",
    "type": 3,
    "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/小白菜电影.js"
@@ -1079,6 +1057,69 @@
    "type": 3,
    "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/PTT.js"
+  },
+  {
+   "key": "老王影视",
+   "name": "老王｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/老王.js"
+  },
+  {
+   "key": "饭团影视",
+   "name": "饭团｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/饭团.js"
+  },
+  {
+   "key": "魔都影视",
+   "name": "魔都｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/魔都.js"
+  },
+  {
+   "key": "七新影视",
+   "name": "七新｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/七新.js"
+  },
+  {
+   "key": "旺旺影视",
+   "name": "旺旺｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/旺旺.js"
+  },
+  {
+   "key": "时光影视",
+   "name": "时光｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/时光影院.js"
+  },
+  {
+   "key": "天龙影视",
+   "name": "天龙｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/天龙影院.js"
+  },
+  {
+   "key": "无忧影视",
+   "name": "无忧｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/无忧影视.js"
+  },
+  {
+   "key": "我播影视",
+   "name": "我播｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/我播.js"
   },
   {
    "key": "VO影视",
