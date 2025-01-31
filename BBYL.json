@@ -884,6 +884,41 @@
    "filterable": 1
   },
   {
+   "key": "大米影视",
+   "name": "大米｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/大米星球.js"
+  },
+  {
+   "key": "蚂蚁影视",
+   "name": "蚂蚁｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/蚂蚁.js"
+  },
+  {
+   "key": "思古影视",
+   "name": "思古｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/思古.js"
+  },
+  {
+   "key": "耐看影视",
+   "name": "耐看｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/耐看.js"
+  },
+  {
+   "key": "哎尚影视",
+   "name": "爱上｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/爱上电影.js"
+  },
+  {
    "key": "hipy_js_黑木耳资源[资]",
    "name": "黑耳｜影视",
    "type": 3,
