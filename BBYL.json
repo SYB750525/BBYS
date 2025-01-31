@@ -539,6 +539,13 @@
    }
   },
   {
+   "key": "盘他",
+   "name": "盘他｜4K急速",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/盘他.js"
+  },
+  {
    "key": "LB",
    "name": "立播｜蓝光",
    "type": 3,
@@ -546,11 +553,13 @@
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/立播.js"
   },
   {
-   "key": "土豆",
-   "name": "搜索┃土豆",
+   "key": "移动云盘",
+   "name": "移动｜极速",
    "type": 3,
-   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
-   "ext": "http://60.211.124.23:10101/tvbox/js/gyi.php?key=7894561232&id=土豆"
+   "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/OG.txt",
+   "api": "csp_YDjisu",
+   "searchable": 1,
+   "changeable": 1
   },
   {
    "key": "csp_Xlys",
@@ -910,25 +919,11 @@
    "ext": "https://gitee.com/qqlan/lan/raw/master/钓鱼/lib/星辰[优].js"
   },
   {
-   "key": "blifan影视",
-   "name": "BLF｜影视",
-   "type": 3,
-   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
-   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/BLF.js"
-  },
-  {
    "key": "模拟影视",
    "name": "模拟｜影视",
    "type": 3,
    "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/HD.js"
-  },
-  {
-   "key": "电影猎手",
-   "name": "猎手｜蓝光",
-   "type": 3,
-   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
-   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/电影猎手.js"
   },
   {
    "key": "电影先生",
@@ -950,13 +945,6 @@
    "type": 3,
    "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/飞鱼影视.js"
-  },
-  {
-   "key": "飘花影视",
-   "name": "飘花｜影视",
-   "type": 3,
-   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
-   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/飘花影院.js"
   },
   {
    "key": "九牛电影",
