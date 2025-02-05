@@ -792,7 +792,7 @@
   },
   {
    "key": "csp_映播",
-   "name": "映播┃Py电影",
+   "name": "映播┃电影",
    "type": 3,
    "searchable": 1,
    "changeable": 1,
@@ -854,7 +854,7 @@
   },
   {
    "key": "4k剧院",
-   "name": "4k剧院｜蓝光",
+   "name": "剧院｜蓝光",
    "type": 3,
    "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
    "searchable": 1,
@@ -872,17 +872,39 @@
    "playerType": "1"
   },
   {
+   "key": "全网影视",
+   "name": "全网｜影视",
+   "type": 3,
+   "api": "csp_Quanwk",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://www.91qkw.com"
+  },
+  {
    "key": "天天弹幕",
    "name": "天天｜弹幕",
    "type": 3,
    "api": "csp_TianTian",
    "searchable": 1,
    "quickSearch": 1,
-   "changeable": 1,
    "filterable": 1,
    "ext": {
     "danmu": true,
     "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+   }
+  },
+  {
+   "key": "热播弹幕",
+   "name": "热播｜弹幕",
+   "type": 3,
+   "api": "csp_TianTian",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "danmu": true,
+    "site": "aHR0cDovL3YucmJvdHYuY24="
    }
   },
   {
@@ -892,6 +914,18 @@
    "api": "csp_Muou",
    "playerType": 2,
    "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
+  },
+  {
+   "key": "糯米弹幕",
+   "name": "糯米｜弹幕",
+   "type": 3,
+   "api": "csp_Nmys",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "danmu": true
+   }
   },
   {
    "key": "农民影视",
@@ -920,7 +954,7 @@
   },
   {
    "key": "素白白",
-   "name": "素BB｜影视",
+   "name": "素白｜影视",
    "type": 3,
    "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/素白白.js"
