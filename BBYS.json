@@ -83,6 +83,13 @@
    }
   },
   {
+   "key": "腾腾弹幕",
+   "name": "企鹅｜4k高清",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/腾讯.js"
+  },
+  {
    "key": "雷鲸",
    "name": "雷鲸｜4K网盘",
    "type": 3,
@@ -680,7 +687,7 @@
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/%E7%93%9C%E5%AD%90.js"
   },
   {
-   "key": "ddys_js",
+   "key": "低端",
    "name": "低端┃在线",
    "type": 3,
    "searchable": 1,
@@ -691,8 +698,8 @@
    "timeout": 15
   },
   {
-   "key": "hipy_js_腾云驾雾[官]",
-   "name": "腾腾｜4k",
+   "key": "腾云驾雾[官]",
+   "name": "腾腾｜影视",
    "type": 3,
    "api": "https://gitee.com/qqlan/lan/raw/master/%E9%92%93%E9%B1%BC/lib/drpy2.min.js",
    "searchable": 1,
@@ -704,7 +711,7 @@
   },
   {
    "key": "guoguo",
-   "name": "果果｜4k",
+   "name": "果果｜影视",
    "type": 3,
    "api": "https://gitee.com/qqlan/lan/raw/master/%E9%92%93%E9%B1%BC/lib/drpy2.min.js",
    "searchable": 1,
@@ -1194,7 +1201,7 @@
   },
   {
    "key": "push_agent",
-   "name": "手机｜推送",
+   "name": "接口完全免费公益性质 纯互联网搜集 杜绝未成年测试本项目｜请于24小时内删除本测试内容",
    "type": 3,
    "api": "csp_Push",
    "searchable": 0,
