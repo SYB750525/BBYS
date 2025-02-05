@@ -83,13 +83,6 @@
    }
   },
   {
-   "key": "腾腾弹幕",
-   "name": "企鹅｜4k高清",
-   "type": 3,
-   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
-   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/腾讯.js"
-  },
-  {
    "key": "雷鲸",
    "name": "雷鲸｜4K网盘",
    "type": 3,
