@@ -1,6 +1,6 @@
 {
  "spider": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/spider.jar",
- "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738054786827/wushi3.gif",
+ "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
  "sites": [
   {
    "key": "豆瓣",
@@ -705,6 +705,14 @@
    "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js",
    "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319885464/ddys.txt",
    "timeout": 15
+  },
+  {
+   "key": "图图",
+   "name": "图图｜影视",
+   "type": 3,
+   "api": "csp_APPTT",
+   "playerType": 1,
+   "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
   },
   {
    "key": "腾云驾雾[官]",
