@@ -95,6 +95,7 @@
    "type": 3,
    "api": "csp_Wexleijing",
    "searchable": 1,
+   "searchTop": true,
    "quickSearch": 1,
    "changeable": 1,
    "jar": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/wex.jar"
@@ -105,6 +106,7 @@
    "type": 3,
    "api": "csp_Wextyso",
    "searchable": 1,
+   "searchTop": true,
    "quickSearch": 1,
    "changeable": 1,
    "jar": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/wex.jar"
@@ -115,6 +117,7 @@
    "type": 3,
    "api": "csp_WexYDpanta",
    "searchable": 1,
+   "searchTop": true,
    "quickSearch": 1,
    "changeable": 1,
    "jar": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/wex.jar"
@@ -125,6 +128,7 @@
    "type": 3,
    "api": "csp_Wobg",
    "searchable": 1,
+   "searchTop": true,
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
@@ -142,6 +146,7 @@
    "type": 3,
    "api": "csp_Wobg",
    "quickSearch": 1,
+   "searchTop": true,
    "changeable": 1,
    "filterable": 1,
    "timeout": 30,
@@ -194,6 +199,7 @@
    "type": 3,
    "api": "csp_Duopan",
    "searchable": 1,
+   "searchTop": true,
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
@@ -213,6 +219,7 @@
    "type": 3,
    "api": "csp_Wobg",
    "quickSearch": 1,
+   "searchTop": true,
    "changeable": 1,
    "filterable": 1,
    "ext": {
@@ -263,6 +270,7 @@
    "type": 3,
    "api": "csp_Wobg",
    "searchable": 1,
+   "searchTop": true,
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
@@ -383,8 +391,9 @@
    "type": 3,
    "api": "csp_UuSs",
    "searchable": 1,
+   "searchTop": true,
    "quickSearch": 1,
-   "changeable": 0,
+   "changeable": 1,
    "ext": {
     "Cloud-drive": "tvfan/Cloud-drive.txt",
     "from": "4k|auto"
@@ -398,7 +407,7 @@
    "api": "csp_KkSs",
    "searchable": 1,
    "quickSearch": 1,
-   "changeable": 0,
+   "changeable": 1,
    "ext": {
     "Cloud-drive": "tvfan/Cloud-drive.txt",
     "from": "4k|auto"
@@ -1573,21 +1582,14 @@
    "type": 0,
    "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
    "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-   "logo": "https://live.fanmingming.cn/tv/{name}.png",
    "playerType": 2,
    "timeout": 10
   },
   {
-   "name": "电视Live",
+   "name": "AI直播+",
    "type": 0,
-   "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
-   "playerType": 2,
-   "timeout": 10
-  },
-  {
-   "name": "网络Live",
-   "type": 0,
-   "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Live",
+   "url": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+   "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
    "playerType": 2,
    "timeout": 10
   },
