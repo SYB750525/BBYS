@@ -741,6 +741,18 @@
    "ext": "https://git.acwing.com/jilan/aa/-/raw/main/tt.js"
   },
   {
+   "key": "瓜瓜",
+   "name": "瓜瓜┃速播",
+   "type": 3,
+   "api": "csp_Gz360",
+   "searchable": 1,
+   "jar": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/xiaomi.jar",
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 0,
+   "changeable": 1
+  },
+  {
    "key": "guoguo",
    "name": "果果｜影视",
    "type": 3,
@@ -859,6 +871,18 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/i3d/FHwReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="
+  },
+  {
+   "key": "追剧",
+   "name": "追剧┃影视",
+   "type": 3,
+   "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 0,
+   "changeable": 1,
+   "ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
   },
   {
    "key": "小苹果弹幕",
@@ -1147,13 +1171,6 @@
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/旺旺.js"
   },
   {
-   "key": "雪糕影视",
-   "name": "雪糕｜影视",
-   "type": 3,
-   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
-   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/雪糕TV.js"
-  },
-  {
    "key": "天龙影视",
    "name": "天龙｜影视",
    "type": 3,
@@ -1208,6 +1225,17 @@
    "type": 3,
    "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/我播.js"
+  },
+  {
+   "key": "drpyS_鬼片之家",
+   "name": "鬼片｜(DS)",
+   "type": 4,
+   "api": "http://drpy.mxlgsl.cn/api/鬼片之家",
+   "searchable": 2,
+   "filterable": 1,
+   "changeable": 1,
+   "quickSearch": 1,
+   "ext": ""
   },
   {
    "key": "我的阿里",
