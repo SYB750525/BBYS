@@ -1147,6 +1147,13 @@
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/旺旺.js"
   },
   {
+   "key": "雪糕影视",
+   "name": "雪糕｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/雪糕TV.js"
+  },
+  {
    "key": "天龙影视",
    "name": "天龙｜影视",
    "type": 3,
@@ -1571,6 +1578,15 @@
    ],
    "regex": [
     "video/tos/cn"
+   ]
+  },
+  {
+   "name": "饭团点击",
+   "hosts": [
+    "fantuan"
+   ],
+   "script": [
+    "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
    ]
   }
  ],
