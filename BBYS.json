@@ -7,24 +7,24 @@
    "name": "🌈彬彬有礼｜家庭影院🚭",
    "type": 3,
    "api": "csp_Douban",
-   "searchable": 0
+   "searchable": 1
   },
   {
-   "key": "预告",
-   "name": "新片｜预告",
+   "key": "公益接口",
+   "name": "免费接口｜请勿贩卖",
    "type": 3,
    "api": "csp_YGP",
    "searchable": 1
   },
   {
    "key": "本地",
-   "name": "本地｜视频",
+   "name": "本地｜4K视频",
    "type": 3,
    "api": "csp_LocalFile"
   },
   {
    "key": "配置中心",
-   "name": "配置｜中心",
+   "name": "网盘｜4K配置",
    "type": 3,
    "api": "csp_Config",
    "searchable": 0,
@@ -37,7 +37,7 @@
   },
   {
    "key": "影视配置",
-   "name": "影视｜配置",
+   "name": "影视｜4K配置",
    "type": 3,
    "api": "csp_Wexconfig",
    "searchable": 0,
@@ -81,6 +81,13 @@
     "site": "https://wogg.xxooo.cf",
     "danmu": true
    }
+  },
+  {
+   "key": "腾腾弹幕",
+   "name": "企鹅｜4k高清",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/腾讯.js"
   },
   {
    "key": "雷鲸",
@@ -188,7 +195,7 @@
   },
   {
    "key": "csp_FeiMaoUC",
-   "name": "肥猫UC｜4K",
+   "name": "肥猫｜4K忧析",
    "type": 3,
    "api": "csp_Duopan",
    "searchable": 1,
@@ -380,7 +387,7 @@
   },
   {
    "key": "fanUC",
-   "name": "UC┃4K搜搜",
+   "name": "优析┃4K搜搜",
    "type": 3,
    "api": "csp_UuSs",
    "searchable": 1,
@@ -448,6 +455,20 @@
     "from": "4k|auto"
    },
    "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/FtY.jar"
+  },
+  {
+   "key": "夸克短剧弹幕",
+   "name": "短剧｜4K弹幕",
+   "type": 3,
+   "api": "csp_Qkdj",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "danmu": true
+   }
   },
   {
    "key": "夸克影搜弹幕",
@@ -1180,20 +1201,6 @@
    "type": 3,
    "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/我播.js"
-  },
-  {
-   "key": "夸克短剧弹幕",
-   "name": "夸克短剧｜弹幕",
-   "type": 3,
-   "api": "csp_Qkdj",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-    "danmu": true
-   }
   },
   {
    "key": "我的阿里",
