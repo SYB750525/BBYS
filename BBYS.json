@@ -83,13 +83,6 @@
    }
   },
   {
-   "key": "腾腾弹幕",
-   "name": "企鹅｜4k高清",
-   "type": 3,
-   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
-   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/腾讯.js"
-  },
-  {
    "key": "雷鲸",
    "name": "雷鲸｜4K网盘",
    "type": 3,
@@ -189,7 +182,7 @@
     "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
     "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
     "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-    "site": "http://wp.huban.xyz",
+    "site": "http://103.45.162.207:20720",
     "danmu": true
    }
   },
@@ -898,6 +891,68 @@
    }
   },
   {
+   "key": "小米尘落",
+   "name": "尘落｜小米",
+   "type": 3,
+   "api": "csp_Wetv"
+  },
+  {
+   "key": "小米虎虎",
+   "name": "虎虎｜小米",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "api": "csp_AppHuhu"
+  },
+  {
+   "key": "小米眼镜",
+   "name": "眼镜｜小米",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "api": "csp_AppYanjing"
+  },
+  {
+   "key": "小米米兔",
+   "name": "米兔｜小米",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "api": "csp_MiTuApp"
+  },
+  {
+   "key": "小米玉米",
+   "name": "玉米｜小米",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "api": "csp_YuMiApp"
+  },
+  {
+   "key": "小米电影",
+   "name": "电影｜小米",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "api": "csp_MovieApp"
+  },
+  {
+   "key": "小米多多",
+   "name": "多多｜小米",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "api": "csp_DuoDuoApp"
+  },
+  {
+   "key": "小米良人",
+   "name": "良人｜小米",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "api": "csp_LiangRenApp"
+  },
+  {
    "key": "4k剧院",
    "name": "剧院｜蓝光",
    "type": 3,
@@ -1225,6 +1280,16 @@
    "type": 3,
    "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/我播.js"
+  },
+  {
+   "key": "drpyS_路漫漫",
+   "name": "动漫｜(DS)",
+   "type": 4,
+   "api": "http://8.129.30.117:5757/api/路漫漫?pwd=drpys2025",
+   "searchable": 1,
+   "filterable": 0,
+   "quickSearch": 1,
+   "ext": ""
   },
   {
    "key": "drpyS_鬼片之家",
