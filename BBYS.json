@@ -361,6 +361,16 @@
    }
   },
   {
+   "key": "KuaKeS",
+   "name": "夸克｜网盘社",
+   "type": 3,
+   "jar": "https://gitee.com/fengdoudev/tv/raw/master/custom_spider.jar",
+   "api": "csp_KuaKeS",
+   "searchable": 1,
+   "changeable": 1,
+   "ext": {}
+  },
+  {
    "key": "阿里合集",
    "name": "阿里｜4K合集",
    "type": 3,
@@ -377,6 +387,26 @@
    "style": {
     "type": "list"
    }
+  },
+  {
+   "key": "KuaKeBa",
+   "name": "夸盘｜4K夸速",
+   "type": 3,
+   "jar": "https://gitee.com/fengdoudev/tv/raw/master/custom_spider.jar",
+   "api": "csp_KuaKeBa",
+   "searchable": 1,
+   "changeable": 1,
+   "ext": {}
+  },
+  {
+   "key": "YunPanBa",
+   "name": "盘盘｜4K夸速",
+   "type": 3,
+   "jar": "https://gitee.com/fengdoudev/tv/raw/master/custom_spider.jar",
+   "api": "csp_YunPanBa",
+   "changeable": 1,
+   "searchable": 1,
+   "timeout": 30
   },
   {
    "key": "fanUC",
@@ -637,7 +667,7 @@
   },
   {
    "key": "夸克盘搜弹幕",
-   "name": "夸盘｜4K弹幕",
+   "name": "夸盘｜4K搜索",
    "type": 3,
    "api": "csp_Qkpanso",
    "searchable": 1,
@@ -659,6 +689,17 @@
    "filterable": 1,
    "order_num": 0,
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/小站盘.js"
+  },
+  {
+   "key": "VideoSearch",
+   "name": "影视｜万能搜索",
+   "type": 3,
+   "jar": "https://gitee.com/fengdoudev/tv/raw/master/custom_spider.jar",
+   "api": "csp_VideoSearch",
+   "playerType": 2,
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
   },
   {
    "key": "LB",
