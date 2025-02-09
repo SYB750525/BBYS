@@ -716,10 +716,20 @@
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/樱花影视.js"
   },
   {
+   "key": "麻花视频",
+   "name": "麻花｜(DS)",
+   "type": 4,
+   "api": "http://8.129.30.117:5757/api/麻花视频(DS)?pwd=drpys2025",
+   "searchable": 1,
+   "filterable": 0,
+   "quickSearch": 1,
+   "ext": ""
+  },
+  {
    "key": "移动云盘",
    "name": "移动｜极速",
    "type": 3,
-   "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/OG.txt",
+   "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/YD.jar",
    "api": "csp_YDjisu",
    "searchable": 1,
    "changeable": 1
