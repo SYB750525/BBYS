@@ -389,16 +389,6 @@
    }
   },
   {
-   "key": "KuaKeBa",
-   "name": "夸盘｜4K夸速",
-   "type": 3,
-   "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/custom_spider.jar",
-   "api": "csp_KuaKeBa",
-   "searchable": 1,
-   "changeable": 1,
-   "ext": {}
-  },
-  {
    "key": "YunPanBa",
    "name": "盘盘｜4K夸速",
    "type": 3,
