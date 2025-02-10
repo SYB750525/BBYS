@@ -392,7 +392,7 @@
    "key": "KuaKeBa",
    "name": "夸盘｜4K夸速",
    "type": 3,
-   "jar": "https://gitee.com/fengdoudev/tv/raw/master/custom_spider.jar",
+   "jar": "https://gitee.com/fengdoudev/tv/raw/master/custom_spider.jar;md5;a57101af398a4057ba3a5e8a41a9dbb0",
    "api": "csp_KuaKeBa",
    "searchable": 1,
    "changeable": 1,
