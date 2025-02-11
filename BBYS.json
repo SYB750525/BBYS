@@ -1277,11 +1277,44 @@
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/耐看.js"
   },
   {
-   "key": "哎尚影视",
-   "name": "爱上｜影视",
+   "key": "旋风视频",
+   "name": "旋风｜视频",
    "type": 3,
    "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
-   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/爱上电影.js"
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 0,
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/旋风视频.js"
+  },
+  {
+   "key": "看了么",
+   "name": "看了｜在线",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 0,
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/看了么.js"
+  },
+  {
+   "key": "红狐狸影视",
+   "name": "红狐｜影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/BBYS/XBPQ/红狐影视.json"
+  },
+  {
+   "key": "三集电影",
+   "name": "三集｜影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 0,
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/三集电影[自动].js"
   },
   {
    "key": "我播影视",
