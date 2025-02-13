@@ -1124,6 +1124,13 @@
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/111.js"
   },
   {
+   "key": "555电影",
+   "name": "影视 | 555",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/555电影.js"
+  },
+  {
    "key": "星辰",
    "name": "星优｜影视",
    "type": 3,
