@@ -1479,6 +1479,16 @@
    "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/我播.js"
   },
   {
+   "key": "drpyS_PPX",
+   "name": "PPX｜(DS)",
+   "type": 4,
+   "api": "http://8.129.30.117:5757/api/PPX(DS)?pwd=drpys2025",
+   "searchable": 1,
+   "filterable": 0,
+   "quickSearch": 0,
+   "ext": ""
+  },
+  {
    "key": "drpyS_路漫漫",
    "name": "动漫｜(DS)",
    "type": 4,
@@ -1880,6 +1890,13 @@
    ]
   }
  ],
+ "hosts": [
+  "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+  "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+  "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+  "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+  "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+ ],
  "doh": [
   {
    "name": "Google",
@@ -1925,6 +1942,15 @@
   }
  ],
  "lives": [
+  {
+   "name": "ITV本地",
+   "type": 0,
+   "url": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/ITV.txt",
+   "epg": "http://epg.51zmt.top:8000/e.xml",
+   "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+   "timeout": "3",
+   "playerType": 2
+  },
   {
    "name": "AI直播",
    "type": 0,
