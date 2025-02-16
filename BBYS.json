@@ -776,16 +776,28 @@
    "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
   },
   {
-   "key": "腾云驾雾[官]",
-   "name": "腾腾｜影视",
+   "key": "芒果",
+   "name": "芒芒 | 影视",
    "type": 3,
-   "api": "https://gitee.com/qqlan/lan/raw/master/%E9%92%93%E9%B1%BC/lib/drpy2.min.js",
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
    "order_num": 0,
    "changeable": 1,
-   "ext": "https://git.acwing.com/jilan/aa/-/raw/main/tt.js"
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/芒果.js"
+  },
+  {
+   "key": "腾讯",
+   "name": "腾腾 | 影视",
+   "type": 3,
+   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 0,
+   "changeable": 1,
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/讯讯.js"
   },
   {
    "key": "瓜瓜",
@@ -798,18 +810,6 @@
    "filterable": 1,
    "order_num": 0,
    "changeable": 1
-  },
-  {
-   "key": "guoguo",
-   "name": "果果｜影视",
-   "type": 3,
-   "api": "https://gitee.com/qqlan/lan/raw/master/%E9%92%93%E9%B1%BC/lib/drpy2.min.js",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "order_num": 0,
-   "changeable": 1,
-   "ext": "https://git.acwing.com/jilan/aa/-/raw/main/guoguo.js"
   },
   {
    "key": "饺子影院",
@@ -1048,17 +1048,6 @@
    "ext": {
     "danmu": true
    }
-  },
-  {
-   "key": "农民影视",
-   "name": "农民｜影视",
-   "type": 3,
-   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "order_num": 0,
-   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86gz.js"
   },
   {
    "key": "永乐视频",
@@ -1600,7 +1589,7 @@
   {
    "name": "臻享",
    "type": "1",
-   "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+   "url": "http://isp.wki8.com/jx.php?url=",
    "ext": {
     "flag": [
      "qq",
