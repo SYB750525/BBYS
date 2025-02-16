@@ -389,6 +389,19 @@
    }
   },
   {
+   "key": "AList",
+   "name": "AList｜高清合集",
+   "type": 3,
+   "api": "csp_AList",
+   "searchable": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "style": {
+    "type": "list"
+   },
+   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/alist.json"
+  },
+  {
    "key": "YunPanBa",
    "name": "盘盘｜4K夸速",
    "type": 3,
@@ -1093,6 +1106,16 @@
    "searchable": 1,
    "filterable": 0,
    "quickSearch": 1,
+   "ext": ""
+  },
+  {
+   "key": "耐看",
+   "name": "耐看｜(DS)",
+   "type": 4,
+   "api": "http://8.129.30.117:5757/api/耐看(DS)?pwd=drpys2025",
+   "searchable": 1,
+   "filterable": 0,
+   "quickSearch": 0,
    "ext": ""
   },
   {
