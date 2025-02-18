@@ -4,14 +4,14 @@
  "sites": [
   {
    "key": "豆瓣",
-   "name": "🌈彬彬有礼｜家庭影院🚭",
+   "name": "🌈恭喜发财｜天天开心🚭",
    "type": 3,
    "api": "csp_Douban",
    "searchable": 1
   },
   {
-   "key": "公益接口",
-   "name": "免费接口｜请勿贩卖",
+   "key": "免费接口",
+   "name": "防失联QQ｜992548515",
    "type": 3,
    "api": "csp_YGP",
    "searchable": 0
@@ -695,7 +695,7 @@
   },
   {
    "key": "VideoSearch",
-   "name": "影视｜万能搜索",
+   "name": "影视｜万能搜",
    "type": 3,
    "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/custom_spider.jar",
    "api": "csp_VideoSearch",
@@ -739,13 +739,12 @@
    "ext": "https://www.libvio.pro/"
   },
   {
-   "key": "移动云盘",
+   "key": "移动",
    "name": "移动｜极速",
    "type": 3,
-   "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/YD.jar",
-   "api": "csp_YDjisu",
+   "api": "csp_YD",
    "searchable": 1,
-   "changeable": 1
+   "quickSearch": 1
   },
   {
    "key": "zxzj",
@@ -1009,9 +1008,14 @@
    "key": "荐片",
    "name": "荐片｜影视",
    "type": 3,
-   "api": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/drpy2.min.js",
-   "ext": "https://gitee.com/syb18673658575/888/raw/master/XIAOSA/荐片.js",
-   "playerType": "1"
+   "api": "csp_Jianpian",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "playerType": 1,
+   "ext": {
+    "danmu": true
+   }
   },
   {
    "key": "全网影视",
