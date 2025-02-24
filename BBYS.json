@@ -78,7 +78,7 @@
     "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
     "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
     "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-    "site": "https://mogg1.banye.tech:7777",
+    "site": "http://149.88.87.72:5666/",
     "danmu": true
    }
   },
@@ -968,6 +968,20 @@
    "filterable": 1,
    "ext": {
     "danmu": true
+   }
+  },
+  {
+   "key": "熊猫网cc",
+   "name": "熊猫｜网站",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": {
+    "简介": "剧情介绍:+itemprop=\"description\">&&</div>",
+    "数组": "module-item\">&&</div></div>",
+    "图片": "data-src=\"&&\"",
+    "副标题": "video-class\">&&</span>",
+    "分类url": "https://jxhwsl.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "短剧$99#电视剧$79#电影$61#动漫$93#综艺$88"
    }
   },
   {
