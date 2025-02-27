@@ -146,6 +146,20 @@
    "jar": "https://gitee.com/liu_wuyou/box/raw/master/jar/%E8%82%A5%E7%8C%AB.jar"
   },
   {
+   "key": "csp_oguc",
+   "name": "欧歌┃4K忧析",
+   "type": 3,
+   "api": "csp_woog",
+   "filterable": 1,
+   "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/csp_woog.jar",
+   "ext": {
+    "site_urls": [
+     "https://oguc.xn--dkw.xn--6qq986b3xl"
+    ],
+    "url_key": "oguc"
+   }
+  },
+  {
    "key": "小米",
    "name": "小米 | 4K弹幕",
    "type": 3,
@@ -308,15 +322,20 @@
    }
   },
   {
-   "key": "欧歌网盘js",
-   "name": "欧歌｜4K夸速",
+   "key": "csp_woog2",
+   "name": "欧歌┃4K夸快",
    "type": 3,
-   "api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/4k.min.js",
-   "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/og4K.js",
-   "searchable": 1,
-   "quickSearch": 1,
+   "api": "csp_woog",
    "changeable": 1,
-   "filterable": 1
+   "searchable": 1,
+   "filterable": 1,
+   "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/csp_woog2.jar",
+   "ext": {
+    "site_urls": [
+     "https://ogkk.nxog.eu.org",
+     "https://ogkk.xn--dkw.xn--6qq986b3xl"
+    ]
+   }
   },
   {
    "key": "云盘",
@@ -394,28 +413,14 @@
    "timeout": 30
   },
   {
-   "key": "fanUC",
-   "name": "优析┃4K搜搜",
-   "type": 3,
-   "api": "csp_UuSs",
-   "searchable": 1,
-   "searchTop": true,
-   "quickSearch": 1,
-   "changeable": 1,
-   "ext": {
-    "Cloud-drive": "tvfan/Cloud-drive.txt",
-    "from": "4k|auto"
-   },
-   "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/FtY.jar"
-  },
-  {
    "key": "抠搜",
    "name": "抠抠┃4K搜搜",
    "type": 3,
-   "api": "csp_KkSs",
+   "api": "csp_KkSsGuard",
    "searchable": 1,
+   "searchTop": true,
    "quickSearch": 1,
-   "changeable": 1,
+   "changeable": 0,
    "ext": {
     "Cloud-drive": "tvfan/Cloud-drive.txt",
     "from": "4k|auto"
@@ -423,10 +428,26 @@
    "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/FtY.jar"
   },
   {
-   "key": "fanPanSso",
+   "key": "UC",
+   "name": "优汐┃4K搜搜",
+   "type": 3,
+   "api": "csp_UuSsGuard",
+   "searchable": 1,
+   "searchTop": true,
+   "quickSearch": 1,
+   "changeable": 0,
+   "ext": {
+    "Cloud-drive": "tvfan/Cloud-drive.txt",
+    "from": "4k|auto",
+    "pturl": "http://tv.91muou.icu/|http://54271.fun/"
+   },
+   "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/FtY.jar"
+  },
+  {
+   "key": "PanSso",
    "name": "盘他┃4K三盘",
    "type": 3,
-   "api": "csp_PanSso",
+   "api": "csp_PanSsoGuard",
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
@@ -437,10 +458,10 @@
    "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/FtY.jar"
   },
   {
-   "key": "fanYpanSo",
+   "key": "YpanSo",
    "name": "盘她┃4K三盘",
    "type": 3,
-   "api": "csp_YpanSo",
+   "api": "csp_YpanSoGuard",
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
@@ -451,10 +472,24 @@
    "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/FtY.jar"
   },
   {
-   "key": "fanxzso",
+   "key": "xzso",
    "name": "盘它┃4K三盘",
    "type": 3,
-   "api": "csp_xzso",
+   "api": "csp_XzsoGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "ext": {
+    "Cloud-drive": "tvfan/Cloud-drive.txt",
+    "from": "4k|auto"
+   },
+   "jar": "https://gitee.com/syb18673658575/888/raw/master/jar/FtY.jar"
+  },
+  {
+   "key": "米搜",
+   "name": "米搜┃4K夸父",
+   "type": 3,
+   "api": "csp_MIPanSoGuard",
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
